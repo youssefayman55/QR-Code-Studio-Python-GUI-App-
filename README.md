@@ -8,8 +8,11 @@ QR Code Studio is a full-featured QR tool that includes:
 🔹 QR Code Generator
 
 🔹 QR Code Gallery Manager
+
 🔹 QR Code Reader (Decoder)
+
 🔹 File download & saving system
+
 🔹 Modern tab-based GUI
 
 It is built using Python and provides a simple interface for working with QR codes visually.
