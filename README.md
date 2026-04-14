@@ -6,6 +6,7 @@ A modern desktop application built with Python that allows users to generate, ma
 QR Code Studio is a full-featured QR tool that includes:
 
 🔹 QR Code Generator
+
 🔹 QR Code Gallery Manager
 🔹 QR Code Reader (Decoder)
 🔹 File download & saving system
